@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Ezhil</title>
+    <link>https://tientrinh21.github.io/demo_blog/tags/</link>
+    <description>Recent content in Tags on Ezhil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Copyright notice</copyright>
+    <lastBuildDate>Sun, 05 Jan 2020 16:51:18 +0700</lastBuildDate>
+    
+	<atom:link href="https://tientrinh21.github.io/demo_blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>https://tientrinh21.github.io/demo_blog/tags/test/</link>
+      <pubDate>Sun, 05 Jan 2020 16:51:18 +0700</pubDate>
+      
+      <guid>https://tientrinh21.github.io/demo_blog/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Procrastinating</title>
+      <link>https://tientrinh21.github.io/demo_blog/tags/procrastinating/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
+      
+      <guid>https://tientrinh21.github.io/demo_blog/tags/procrastinating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space</title>
+      <link>https://tientrinh21.github.io/demo_blog/tags/space/</link>
+      <pubDate>Sun, 18 Mar 2018 12:13:30 +0530</pubDate>
+      
+      <guid>https://tientrinh21.github.io/demo_blog/tags/space/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Primer</title>
+      <link>https://tientrinh21.github.io/demo_blog/tags/primer/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://tientrinh21.github.io/demo_blog/tags/primer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>todo</title>
+      <link>https://tientrinh21.github.io/demo_blog/tags/todo/</link>
+      <pubDate>Sun, 18 Mar 2018 02:01:58 +0530</pubDate>
+      
+      <guid>https://tientrinh21.github.io/demo_blog/tags/todo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
