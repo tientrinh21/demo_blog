@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Ezhil</title>
+    <title>Tags on Me&#39;s Demo Blog</title>
     <link>https://tientrinh21.github.io/demo_blog/tags/</link>
-    <description>Recent content in Tags on Ezhil</description>
+    <description>Recent content in Tags on Me&#39;s Demo Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice</copyright>
-    <lastBuildDate>Sun, 05 Jan 2020 16:51:18 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2020 21:45:40 +0700</lastBuildDate>
     
 	<atom:link href="https://tientrinh21.github.io/demo_blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Test</title>
       <link>https://tientrinh21.github.io/demo_blog/tags/test/</link>
-      <pubDate>Sun, 05 Jan 2020 16:51:18 +0700</pubDate>
+      <pubDate>Wed, 08 Jan 2020 21:45:40 +0700</pubDate>
       
       <guid>https://tientrinh21.github.io/demo_blog/tags/test/</guid>
       <description></description>
